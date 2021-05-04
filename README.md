@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LuaJacqmin
+👋 Hi, I’m @LuaJacqmin
 
 I am a junior frontend developer based in Belgium. I am lso interrested in UI/UX design ! 
 Apart for the code, I love playing music and drawing. I also animate kids during summer camps.
