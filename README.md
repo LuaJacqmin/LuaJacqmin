@@ -1,10 +1,11 @@
 👋 Hi, I’m @LuaJacqmin
 
-I am a junior frontend developer based in Belgium. I am lso interrested in UI/UX design ! 
+I am a junior frontend developer based in Belgium. I am also interrested in UI/UX design ! 
 Apart for the code, I love playing music and drawing. I also animate kids during summer camps.
 
-I am currently learning to config a webpack, learning angular and willing to learn React and NodeJS.
-I am searching a first job as a frontend developer in Belgium or in Luxembourg !
+I am in a webdesigner frontend training at CEPEGRA, Belgium
+I have release some times ago my webpack project template configuration and willing to learn React and NodeJS.
+I am searching a 6-weeks internship in Belgium !
 
 You can see my portfolio https://www.luajacqmin.be/ and mail me at jacqmin.lua.pro@hotmail.com 
 
