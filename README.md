@@ -1,11 +1,11 @@
 👋 Hi, I’m @LuaJacqmin
 
-I am a junior frontend developer based in Belgium. I am also interrested in UI/UX design ! 
-Apart for the code, I love playing music and drawing. I also animate kids during summer camps.
+I am a front-end developer based in Belgium. I am also interrested in UI/UX design and back-end development ! 
+Apart for the code, I love playing music, cooking and drawing. I also animated kids during summer camps in another lige.
 
-I am in a webdesigner frontend training at CEPEGRA, Belgium
-I have release some times ago my webpack project template configuration and willing to learn React and NodeJS.
-I am searching a 6-weeks internship in Belgium !
+I am an angularJS and Ionic developper @ Sympass (Emresa SA)
+
+I'll also take part of the Euroskills 2023 as a webdeveloppment competitor ! #belgianTeam #redBears
 
 You can see my portfolio https://www.luajacqmin.be/ and mail me at jacqmin.lua.pro@hotmail.com 
 
